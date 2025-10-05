@@ -1,0 +1,11 @@
+funciones
+Las funciones son bloques de codigo reutilizables que realizar una tarea especifica.
+Ayudan a organizar el codigo y a evitar la repeticion pueden aceptar entradas (llamadas Parametros)
+y devolver un resultado
+
+Ej:
+Function sumar(a,b){
+netur a+b;
+}
+let resultado= sumar (5,3);
+console.log(resultado);//salida:8
